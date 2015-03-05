@@ -1,0 +1,30 @@
+{
+    "id":"9873294872394293",
+    "name":"John",
+    "status":"Hey I ate waffles for breakfast",
+    "alive":true,
+    "website":null,
+    "age":25,
+    "location": {
+        "street":"902 Main St",
+        "city":"New York",
+        "state":"NY",
+        "postalCode":"10010"
+    },
+    
+    "phoneNumbers":
+    [
+        {
+            "type":"office",
+            "number":"212-555-1234"
+        },
+        {
+            "type":"cell",
+            "number":"646-343-5864"
+        }      
+    ],
+    
+    "likes":["Computers","Girls","Bikes"]
+    
+    
+}
